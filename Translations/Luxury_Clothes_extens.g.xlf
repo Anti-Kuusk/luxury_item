@@ -1,0 +1,739 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Luxury_Clothes_extens">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3198256668 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Item Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3198256668 - Field 3168444338 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Item Location - Field Address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3198256668 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Item Location - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3198256668 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Item Location - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3198256668 - Field 1234933222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Location name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Item Location - Field Rental Item Location Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1465361383 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Class</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Clothing Class - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1465361383 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Clothing Class - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1465361383 - Field 3559958850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Renting Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Clothing Class - Field Default Renting Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1465361383 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Clothing Class - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 3011597373 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Brand</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Brand - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 2827249175 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 2887153361 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Category Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Luxury Item Category Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 2226315007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Luxury Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 3965678037 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Material</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Material - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 1695122201 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Model - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 3635338911 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily price rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 1187274133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field RentalCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 1474138314 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Responsible Employee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Responsible Employee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2654712494 - Field 1180181476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Search Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item - Field Search Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 628701671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Customer E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 3920751393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Customer Phone No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 420697350 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Category</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Luxury Item Category - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 2032210136 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Luxury Item Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 899737137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Luxury Item Rental Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 1351594800 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. Series</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field No. Series - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 3106238825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Rental Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 2995829369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Rental End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 4136279510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Rental Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 190793248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Item Unit No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Rental Item Unit No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 642247900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Rental Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 1187274133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field RentalCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2723018696 - Field 526580410 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Order - Field Total amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Unit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 3543129988 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Blocked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field Blocked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 4029278903 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LI Location Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field LI Location Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 1661072288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LI Unit No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field LI Unit No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 2226315007 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field Luxury Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2607152896 - Field 47037625 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Item Rental Unit - Field Serial No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Ledger Entry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 3584014716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Days (Actual)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Days (Actual) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 441129588 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Days (Expected)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Days (Expected) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 216491597 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Days (Invoiced)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Days (Invoiced) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 2989356705 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Asset No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental Asset No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 307444315 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Asset Unit No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental Asset Unit No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 3106238825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 2995829369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 3118901379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4166535250 - Field 642247900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Luxury Rental Ledger Entry - Field Rental Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Journal Line</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 4190130733 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Customer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 149522872 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Entry Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 1492748685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Unit No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Luxury Item Rental Unit No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 4007493463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Rental Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Luxury Rental Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 3710982960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Posting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 3106238825 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Days</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Rental Days - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 2995829369 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental End</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Rental End - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 3118901379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Order No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Rental Order No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3004964345 - Field 642247900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Journal Line - Field Rental Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 602728561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RentalSetup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 602728561 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 602728561 - Field 685857329 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Nos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Setup - Field Rental Item Nos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 602728561 - Field 4048999142 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Order Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Setup - Field Rental Order Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1315649693 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be a closing date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Check Line - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2525786093 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the journal lines?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2525786093 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2051017905 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Batch Line    #1##########\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post Batch - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2051017905 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checking lines        #2######\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post Batch - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2051017905 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting lines         #3###### @4@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post Batch - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3940962223 - NamedType 941959961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 entry for Rental Order %2 already exists.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental Jnl.-Post Line - NamedType EntryAlreadyExistsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2096832631 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental-Post (Yes/No) - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2096832631 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order was successfully posted.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Rental-Post (Yes/No) - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Page 2334953245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Locations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Locations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2334953245 - Control 3168444338 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the address of the item location.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Locations - Control Address - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2334953245 - Control 714791889 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the City of the item location.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Locations - Control City - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2334953245 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a location code for the item.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Locations - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2334953245 - Control 1234933222 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the item location.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Item Locations - Control Rental Item Location Nos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2413368853 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Classes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Clothing Classes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2413368853 - Control 3004954119 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a code for the class that the luxury clothing item belongs to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Clothing Classes - Control Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2413368853 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of the luxury clothing item class.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Clothing Classes - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 3543129988 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the related record is blocked from being posted in transactions, for example a customer that is declared insolvent or an item that is placed in quarantine.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control Blocked - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the rental asset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 889155057 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the category that the rental asset belongs to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control Luxury Item Category code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 1474138314 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which employee is responsible for the rental asset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control Responsible Employee - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a search description for the rental asset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control Search Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3849485578 - Control 4063894530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Asset Units</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Card - Control RentalAssetUnit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2555601004 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the rental asset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item List - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2555601004 - Control 2887153361 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the class that the rental asset belongs to</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item List - Control Luxury Item Category Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2555601004 - Control 4200184881 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of the involved entry or record, according to the specified number series.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item List - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2555601004 - Control 1180181476 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a search description for the rental asset.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item List - Control Search Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2384545877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Journal</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Journal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2384545877 - Action 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Journal - Action Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2384545877 - Action 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize the document or journal by posting the amounts and quantities to the related ledgers in your company books.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Journal - Action Post - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2384545877 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Journal - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Control 2429529764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Asset</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Control RentalAsset - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Control 1497297095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Control RentalPeriod - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 2808404044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action Posting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 2282416948 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finalize the document or journal by posting the amounts and quantities to the related ledgers (andmikesse) in your company books.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action Post - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 2071937805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reopen Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action Reopen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2723018696 - Action 3164004801 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Order - Action PrintOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1165836105 - Action 1002420131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Orders - Action Print - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1165836105 - Action 4032263875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Orders - Action Release - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1165836105 - Action 2071937805 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reopen Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Orders - Action Reopen - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 791743474 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Unit List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Luxury Item Rental Unit List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585089889 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Most Rented Items - Control Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585089889 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Most Rented Items - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1585089889 - Control 1187274133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Most Rented Items - Control RentalCount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 602728561 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 602728561 - Control 1532816877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Numbering</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Setup - Control Numbering - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 602728561 - Control 685857329 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the number series that will be used to assign numbers to rental items.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Setup - Control Rental Item Nos - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 602728561 - Control 2850168318 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code for the number series that will be used to assign numbers to rental orders.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Setup - Control RentalOrder Nos. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 2723018696 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Luxury Item Rental Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Luxury Item Rental Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 910620556 - EnumValue 1778072510 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Luxury Item Rental Order Status - EnumValue Closed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 910620556 - EnumValue 4259830144 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Luxury Item Rental Order Status - EnumValue Open - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 910620556 - EnumValue 1487485508 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Approval</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Luxury Item Rental Order Status - EnumValue Pending Approval - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 910620556 - EnumValue 263019662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pending Prepayment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Luxury Item Rental Order Status - EnumValue Pending Prepayment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 910620556 - EnumValue 4020758431 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Released</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Luxury Item Rental Order Status - EnumValue Released - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 947202954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extend</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Extend - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 1205315983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hand over</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Hand over - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 1596556440 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Lost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 1819311542 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Penalty Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Penalty Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 1667477363 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Rental Invoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 89000627 - EnumValue 3223440110 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Rental Ledger Entry Type - EnumValue Return - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
